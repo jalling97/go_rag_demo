@@ -25,7 +25,7 @@ Execute the following via the command line:
 git clone https://github.com/jalling97/go_rag_demo.git
 
 # go to the demo code
-cd demo/
+cd go_rag_demo/demo/
 
 # run the demo
 go run demo.go
