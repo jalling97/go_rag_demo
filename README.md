@@ -4,12 +4,12 @@ A quick demonstration of Retrieval Augmented Generation using golang and OpenAI.
 This demo utilizes the [openai-go](https://github.com/openai/openai-go/) library.
 
 ## Guide
-This repository contains a [guide](/go_rag_demo/docs/openai_rag_golang.md) of basic usage of the OpenAI-API using golang, including chat completions as well as an example of Retrieval Augmented Generation (RAG). The guide contains descriptions and explanations of each step, as well as links to helpful resources to understand more about the OpenAI API and RAG.
+This repository contains a [guide](docs/openai_rag_golang.md) of basic usage of the OpenAI-API using golang, including chat completions as well as an example of Retrieval Augmented Generation (RAG). The guide contains descriptions and explanations of each step, as well as links to helpful resources to understand more about the OpenAI API and RAG.
 
 To follow along with the guide, you will need an [OpenAI API Key](https://help.openai.com/en/articles/4936850-where-do-i-find-my-openai-api-key).
 
 ## RAG Demo Code
-The code snippets detailed in the guide pertaining to RAG can also be found in the [demo](/go_rag_demo/demo/) folder of this repository, if you prefer to see all the pieces in action.
+The code snippets detailed in the guide pertaining to RAG can also be found in the [demo](demo/) folder of this repository, if you prefer to see all the pieces in action.
 
 ### Requirements
 
