@@ -28,7 +28,7 @@ git clone https://github.com/jalling97/go_rag_demo.git
 cd demo/
 
 # run the demo
-go run rag.go
+go run demo.go
 
 # OR build as an executable 
 go build
