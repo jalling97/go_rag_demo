@@ -83,7 +83,7 @@ We'll break this example down into a few steps:
 
 ### Requirements
 
-Referencing the [Basic Usage](#basic-usage-of-the-openai-sdk-with-leapfrogai) section, you'll need:
+Referencing the [Basic Usage](#basic-usage-of-openai-in-go) section, you'll need:
 
 - An OpenAI API key
 - An OpenAI Client
